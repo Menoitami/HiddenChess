@@ -7,7 +7,9 @@ This project is a networked chess game implemented using C++ and Qt. The game al
 ## Features
 
 - **User Registration and Login**: Players can register and log in to access the game.
+- ![image](https://github.com/user-attachments/assets/b61b54b1-52f0-4699-85ed-9e8f6e0c98ce)
 - **Room Creation**: Users can create and join game rooms to play chess.
+- ![image](https://github.com/user-attachments/assets/49d9e3f0-2609-4057-8589-39ab36c76c0d)
 - **Online Chess Gameplay**: Play chess against other players over the network.
 - **HTTP Protocol**: Communication between the client and server is handled via HTTP.
 
@@ -24,7 +26,7 @@ This project is a networked chess game implemented using C++ and Qt. The game al
 - **Qt 5.x or higher**: Ensure that Qt is installed and configured on your development environment.
 - **C++ Compiler**: A C++ compiler compatible with your Qt installation (e.g., `g++`, `clang++`).
 
-![image](https://github.com/user-attachments/assets/b61b54b1-52f0-4699-85ed-9e8f6e0c98ce)
 
-![image](https://github.com/user-attachments/assets/49d9e3f0-2609-4057-8589-39ab36c76c0d)
+
+
 
